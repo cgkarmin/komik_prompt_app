@@ -1,0 +1,43 @@
+{
+  "title": {
+    "ms": "PAK PAK BIM BING",
+    "en": "PAK PAK BIM BING"
+  },
+  "subtitle": {
+    "ms": "Masa Itu Emas",
+    "en": "Masa Itu Emas"
+  },
+  "description": {
+    "ms": "Lambat bukan masalah. Lambat tu gejala penyakit. Penyakitnya malas.",
+    "en": "Being late is not the problem. It’s a symptom. The disease is laziness."
+  },
+  "panel": {
+    "characters": [
+      "Pak Leman"
+    ],
+    "background": {
+      "ms": "Masjid lama waktu pagi",
+      "en": "Old mosque in the morning"
+    },
+    "action": {
+      "ms": "Pak Leman sedang memarahi Pak Mail yang lambat",
+      "en": "Pak Leman scolding Pak Mail for being late"
+    },
+    "panel_size": "Landskap",
+    "drawing_style": "Pop Art Melayu",
+    "extra_text": {
+      "ms": "Pagi Jumaat yang penuh peringatan",
+      "en": "A Friday morning full of reminders"
+    },
+    "dialog": {
+      "Pak Leman": {
+        "ms": "Mail, kau ingat masjid ni hotel ke?",
+        "en": "Mail, you think this mosque is a hotel?"
+      },
+      "Pak Mail": {
+        "ms": "",
+        "en": ""
+      }
+    }
+  }
+}
